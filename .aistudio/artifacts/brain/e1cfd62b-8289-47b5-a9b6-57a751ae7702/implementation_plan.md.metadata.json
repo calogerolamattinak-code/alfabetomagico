@@ -1,0 +1,6 @@
+{
+  "summary": "Piano di implementazione per la correzione dell'area di disegno e colorazione in Alfabeto Magico: separazione del canvas in un'architettura a doppio livello (canvas colore di base + canvas contorni trasparente sovrapposto) e mantenimento dell'assistente intelligente anti-sbavatura.",
+  "updatedAt": "2026-10-18T10:52:42.351270109Z",
+  "requestFeedback": true,
+  "userFacing": true
+}

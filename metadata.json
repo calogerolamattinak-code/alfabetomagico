@@ -1,0 +1,6 @@
+{
+  "name": "Alfabeto Magico - Impara l'ABC",
+  "description": "App educativa sicura per bambini 3-7 anni per imparare l'alfabeto, tracciare le lettere, colorare e giocare in 5 lingue (IT, EN, FR, ES, DE) conforme alla Families Policy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

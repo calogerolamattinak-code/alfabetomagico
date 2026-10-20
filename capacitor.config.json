@@ -1,0 +1,6 @@
+{
+  "appId": "com.alfabetomagico.myapp",
+  "appName": "Alfabeto Magico",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
